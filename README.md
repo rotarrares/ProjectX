@@ -23,8 +23,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 - Person can login
 - Person can view projects
 - Person can view Users
-- User can create project
+- User can create project and a new Team
 - User can react to project
+- 
 - User can ask a question
 - Project team can answer question
 
